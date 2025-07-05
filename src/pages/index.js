@@ -478,7 +478,7 @@ export default function Home() {
 												</div>
 											</div>
 										</button>
-										<div className={`text-3xl w-full break-words overflow-hidden transition-all duration-300 ease-in-out ${
+										<div className={`text-2xl lg:3xl w-full break-words overflow-hidden transition-all duration-300 ease-in-out ${
 											openFAQ[id] ? 'max-h-[500px] opacity-100 py-4' : 'max-h-0 opacity-0'
 										}`}>
 											{A}
