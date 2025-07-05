@@ -319,7 +319,7 @@ export default function Home() {
 						</div>
 					</div>
 					<div className='font-["Freight_Display_Pro"] text-xl text-center max-w-[90vw] font-[300] pb-[6vh] tracking-wide mt-[4vh] leading-8'>
-						You may be led to therapy by anxiety, depression, relationship stress, past or recent trauma, grief and loss, self-esteem issues, or challenges with family, parenting, or parental relationships. Whatever the source of your stress, you don't have to face it alone. Therapy offers you the time and space to work toward wellness and peace.
+						You may be led to therapy by anxiety, depression, relationship stress, past or recent trauma, grief and loss, self-esteem issues, or challenges with family, parenting, or parental relationships. Whatever the source of your stress, you don&apos;t have to face it alone. Therapy offers you the time and space to work toward wellness and peace.
 					</div>
 					<hr className='w-[91vw] mb-[10vh] border-gray-400' />
 					<div className='font-["Freight_Display_Pro"] text-3xl font-[300]'>
@@ -339,7 +339,7 @@ export default function Home() {
 								Anxiety & Stress Management
 							</div>
 							<div className='text-base leading-7 text-center mt-[1.1vmax] font-[300] tracking-[0.1em]'>
-								Life's pressures can feel overwhelming, leaving you caught in cycles of worry, tension, and exhaustion. I provide a compassionate space where you can learn practical tools to manage anxiety and stress effectively. Through evidence-based techniques including cognitive-behavioral strategies and mindfulness practices, we'll work together to help you regain control, develop healthy coping mechanisms, and build resilience for life's challenges.
+								Life&apos;s pressures can feel overwhelming, leaving you caught in cycles of worry, tension, and exhaustion. I provide a compassionate space where you can learn practical tools to manage anxiety and stress effectively. Through evidence-based techniques including cognitive-behavioral strategies and mindfulness practices, we&apos;ll work together to help you regain control, develop healthy coping mechanisms, and build resilience for life&apos;s challenges.
 							</div>
 						</div>
 						<div className='text-2xl flex flex-col max-w-[25vw] items-center'>
@@ -354,7 +354,7 @@ export default function Home() {
 								Relationship Counselling
 							</div>
 							<div className='text-base leading-7 text-center mt-[1.1vmax] font-[300] tracking-[0.1em]'>
-								Relationships are at the heart of our well-being, yet they can also be sources of profound pain and confusion. Whether you're navigating communication breakdowns, trust issues, or simply feeling disconnected from your partner, I offer a safe, non-judgmental environment where both individuals and couples can explore their patterns, rebuild intimacy, and develop the skills needed for lasting, fulfilling connections.
+								Relationships are at the heart of our well-being, yet they can also be sources of profound pain and confusion. Whether you&apos;re navigating communication breakdowns, trust issues, or simply feeling disconnected from your partner, I offer a safe, non-judgmental environment where both individuals and couples can explore their patterns, rebuild intimacy, and develop the skills needed for lasting, fulfilling connections.
 							</div>
 						</div>
 						<div className='h-full text-2xl flex flex-col max-w-[25vmax] items-center'>
@@ -369,7 +369,7 @@ export default function Home() {
 								Trauma Recovery
 							</div>
 							<div className='text-base leading-7 text-center mt-[1.1vmax] font-[300] tracking-[0.1em]'>
-								Trauma can leave lasting imprints that affect every aspect of your life, from relationships to self-worth to daily functioning. I specialize in trauma-informed therapy that honors your unique healing journey. Using gentle, research-backed approaches, we'll work at your pace to process difficult experiences, reduce symptoms, and help you reclaim your sense of safety and empowerment in the world.
+								Trauma can leave lasting imprints that affect every aspect of your life, from relationships to self-worth to daily functioning. I specialize in trauma-informed therapy that honors your unique healing journey. Using gentle, research-backed approaches, we&apos;ll work at your pace to process difficult experiences, reduce symptoms, and help you reclaim your sense of safety and empowerment in the world.
 							</div>
 						</div>
 					</div>
@@ -388,7 +388,7 @@ export default function Home() {
 								Anxiety & Stress Management
 							</div>
 							<div className='text-base leading-7 text-center mt-[6vh] font-[300] tracking-wide'>
-								Life's pressures can feel overwhelming, leaving you caught in cycles of worry, tension, and exhaustion. I provide a compassionate space where you can learn practical tools to manage anxiety and stress effectively. Through evidence-based techniques including cognitive-behavioral strategies and mindfulness practices, we'll work together to help you regain control, develop healthy coping mechanisms, and build resilience for life's challenges.
+								Life&apos;s pressures can feel overwhelming, leaving you caught in cycles of worry, tension, and exhaustion. I provide a compassionate space where you can learn practical tools to manage anxiety and stress effectively. Through evidence-based techniques including cognitive-behavioral strategies and mindfulness practices, we&apos;ll work together to help you regain control, develop healthy coping mechanisms, and build resilience for life&apos;s challenges.
 							</div>
 						</div>
 						<div className='text-2xl flex flex-col max-w-[80vw] items-center'>
@@ -403,7 +403,7 @@ export default function Home() {
 								Relationship Counselling
 							</div>
 							<div className='text-base leading-7 text-center mt-[6vh] font-[300] tracking-wide'>
-								Relationships are at the heart of our well-being, yet they can also be sources of profound pain and confusion. Whether you're navigating communication breakdowns, trust issues, or simply feeling disconnected from your partner, I offer a safe, non-judgmental environment where both individuals and couples can explore their patterns, rebuild intimacy, and develop the skills needed for lasting, fulfilling connections.
+								Relationships are at the heart of our well-being, yet they can also be sources of profound pain and confusion. Whether you&apos;re navigating communication breakdowns, trust issues, or simply feeling disconnected from your partner, I offer a safe, non-judgmental environment where both individuals and couples can explore their patterns, rebuild intimacy, and develop the skills needed for lasting, fulfilling connections.
 							</div>
 						</div>
 						<div className='h-full text-2xl flex flex-col max-w-[80vw] items-center'>
@@ -418,7 +418,7 @@ export default function Home() {
 								Trauma Recovery
 							</div>
 							<div className='text-base leading-7 text-center mt-[6vh] font-[300] tracking-wide'>
-								Trauma can leave lasting imprints that affect every aspect of your life, from relationships to self-worth to daily functioning. I specialize in trauma-informed therapy that honors your unique healing journey. Using gentle, research-backed approaches, we'll work at your pace to process difficult experiences, reduce symptoms, and help you reclaim your sense of safety and empowerment in the world.
+								Trauma can leave lasting imprints that affect every aspect of your life, from relationships to self-worth to daily functioning. I specialize in trauma-informed therapy that honors your unique healing journey. Using gentle, research-backed approaches, we&apos;ll work at your pace to process difficult experiences, reduce symptoms, and help you reclaim your sense of safety and empowerment in the world.
 							</div>
 						</div>
 					</div>
@@ -622,7 +622,7 @@ export default function Home() {
 									className='w-full border-2 border-gray-400 rounded-lg px-3 py-2'
 								/>
 								<p>
-									Let us know when you're typically available for a call or consultation
+									Let us know when you&apos;re typically available for a call or consultation
 								</p>
 							</div>
 							<div>
