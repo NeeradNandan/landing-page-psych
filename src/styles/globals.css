@@ -1,9 +1,10 @@
 @import "tailwindcss";
 
+
 /* Light */
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProLight-Regular.ttf') format('truetype');
+	src: url('/fonts/FreightDispProLight-Regular.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 	font-display: swap;
@@ -11,7 +12,7 @@
 
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProLight-Italic.ttf') format('truetype');
+	src: url('/fonts/FreightDispProLight-Italic.ttf') format('truetype');
 	font-weight: 300;
 	font-style: italic;
 	font-display: swap;
@@ -20,7 +21,7 @@
 /* Book (Regular) */
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProBook-Regular.ttf') format('truetype');
+	src: url('/fonts/FreightDispProBook-Regular.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -28,7 +29,7 @@
 
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProBook-Italic.ttf') format('truetype');
+	src: url('/fonts/FreightDispProBook-Italic.ttf') format('truetype');
 	font-weight: 400;
 	font-style: italic;
 	font-display: swap;
@@ -37,7 +38,7 @@
 /* Medium */
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProMedium-Regular.ttf') format('truetype');
+	src: url('/fonts/FreightDispProMedium-Regular.ttf') format('truetype');
 	font-weight: 500;
 	font-style: normal;
 	font-display: swap;
@@ -45,7 +46,7 @@
 
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProMedium-Italic.ttf') format('truetype');
+	src: url('/fonts/FreightDispProMedium-Italic.ttf') format('truetype');
 	font-weight: 500;
 	font-style: italic;
 	font-display: swap;
@@ -54,7 +55,7 @@
 /* SemiBold */
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProSemiBold-Regular.ttf') format('truetype');
+	src: url('/fonts/FreightDispProSemiBold-Regular.ttf') format('truetype');
 	font-weight: 600;
 	font-style: normal;
 	font-display: swap;
@@ -62,7 +63,7 @@
 
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProSemiBold-Italic.ttf') format('truetype');
+	src: url('/fonts/FreightDispProSemiBold-Italic.ttf') format('truetype');
 	font-weight: 600;
 	font-style: italic;
 	font-display: swap;
@@ -71,7 +72,7 @@
 /* Bold */
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProBold-Regular.ttf') format('truetype');
+	src: url('/fonts/FreightDispProBold-Regular.ttf') format('truetype');
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
@@ -79,7 +80,7 @@
 
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProBold-Italic.ttf') format('truetype');
+	src: url('/fonts/FreightDispProBold-Italic.ttf') format('truetype');
 	font-weight: 700;
 	font-style: italic;
 	font-display: swap;
@@ -88,7 +89,7 @@
 /* Black */
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProBlack-Regular.ttf') format('truetype');
+	src: url('/fonts/FreightDispProBlack-Regular.ttf') format('truetype');
 	font-weight: 900;
 	font-style: normal;
 	font-display: swap;
@@ -96,8 +97,10 @@
 
 @font-face {
 	font-family: 'Freight Display Pro';
-	src: url('public/fonts/FreightDispProBlack-Italic.ttf') format('truetype');
+	src: url('/fonts/FreightDispProBlack-Italic.ttf') format('truetype');
 	font-weight: 900;
 	font-style: italic;
 	font-display: swap;
 }
+
+/* borderRadius: '50%/50%', width: '250px', height: '100px'*/
